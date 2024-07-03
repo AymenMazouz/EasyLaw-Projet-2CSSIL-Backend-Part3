@@ -1,0 +1,48 @@
+2024-06-12 10:23:26,561 - MAIN_SCRIPT_logs - INFO : 
+ Executing newspapers_scraper.py with command 'scrapy runspider'... 
+
+2024-06-12 10:24:29,080 - MAIN_SCRIPT_logs - INFO : 
+ newspapers_scraper.py executed successfully. 
+
+2024-06-12 10:24:29,080 - MAIN_SCRIPT_logs - INFO : 
+ Executing laws_metadata_scraper.py with command 'python'... 
+
+2024-06-12 10:28:06,800 - MAIN_SCRIPT_logs - INFO : 
+ laws_metadata_scraper.py executed successfully. 
+
+2024-06-12 10:28:06,800 - MAIN_SCRIPT_logs - INFO : 
+ Executing 9ita3.py with command 'python'... 
+
+2024-06-12 10:36:24,019 - MAIN_SCRIPT_logs - INFO : 
+ 9ita3.py executed successfully. 
+
+2024-06-12 10:36:24,019 - MAIN_SCRIPT_logs - INFO : 
+ Executing pdfs_to_images_conversion.py with command 'python'... 
+
+2024-06-12 10:36:28,590 - MAIN_SCRIPT_logs - INFO : 
+ pdfs_to_images_conversion.py executed successfully. 
+
+2024-06-12 10:36:28,590 - MAIN_SCRIPT_logs - INFO : 
+ Executing ocr_images.py with command 'python'... 
+
+2024-06-12 10:36:34,593 - MAIN_SCRIPT_logs - INFO : 
+ ocr_images.py executed successfully. 
+
+2024-06-12 10:36:34,593 - MAIN_SCRIPT_logs - INFO : 
+ Executing text_extraction.py with command 'python'... 
+
+2024-06-12 10:36:39,405 - MAIN_SCRIPT_logs - INFO : 
+ text_extraction.py executed successfully. 
+
+2024-06-12 10:36:39,405 - MAIN_SCRIPT_logs - INFO : 
+ Executing fix_law_texts.py with command 'python'... 
+
+2024-06-12 10:36:53,254 - MAIN_SCRIPT_logs - INFO : 
+ fix_law_texts.py executed successfully. 
+
+2024-06-12 10:36:53,254 - MAIN_SCRIPT_logs - INFO : 
+ Executing delete_all_photos.py with command 'python'... 
+
+2024-06-12 10:36:56,162 - MAIN_SCRIPT_logs - INFO : 
+ delete_all_photos.py executed successfully. 
+

@@ -1,0 +1,15 @@
+beautifulsoup4==4.12.3
+Image==1.5.33
+pdf2image==1.17.0
+Pillow==10.3.0
+pytesseract==0.3.10
+Requests==2.31.0
+Scrapy==2.11.1
+selenium==4.19.0
+SQLAlchemy==2.0.28
+tqdm==4.66.2
+fuzzywuzzy==0.18.0
+python-Levenshtein==0.25.1
+psycopg2>=2.9.9
+python-dotenv>=1.0.1
+Flask>=3.0.0
